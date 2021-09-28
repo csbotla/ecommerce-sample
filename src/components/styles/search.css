@@ -1,0 +1,35 @@
+.search-container {
+  flex: 1;
+  /* border: 2px solid; */
+}
+.input {
+  padding: 10px;
+  border: none;
+  outline: none;
+  background: #f5f5f6;
+  height: 50px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+input:focus {
+  border: 2px solid #f5f5f6;
+  background-color: #f8f8f8;
+}
+
+.mobile-search {
+  flex: 1;
+  /* background: yellow; */
+  /* max-width: 150px; */
+  /* border: 2px solid red; */
+}
+
+.mobile-input {
+  padding: 10px;
+  border: none;
+  outline: none;
+  background: #f5f5f6;
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+}

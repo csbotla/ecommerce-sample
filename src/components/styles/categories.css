@@ -1,0 +1,17 @@
+.categories-container {
+  position: relative;
+  flex: 2;
+}
+
+.categories-container nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.categories-container nav ul li {
+  flex: 1;
+  text-align: center;
+}
+
